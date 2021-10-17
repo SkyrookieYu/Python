@@ -53,6 +53,7 @@
   * [A1Z26](https://github.com/TheAlgorithms/Python/blob/master/ciphers/a1z26.py)
   * [Affine Cipher](https://github.com/TheAlgorithms/Python/blob/master/ciphers/affine_cipher.py)
   * [Atbash](https://github.com/TheAlgorithms/Python/blob/master/ciphers/atbash.py)
+  * [Baconian Cipher](https://github.com/TheAlgorithms/Python/blob/master/ciphers/baconian_cipher.py)
   * [Base16](https://github.com/TheAlgorithms/Python/blob/master/ciphers/base16.py)
   * [Base32](https://github.com/TheAlgorithms/Python/blob/master/ciphers/base32.py)
   * [Base64 Encoding](https://github.com/TheAlgorithms/Python/blob/master/ciphers/base64_encoding.py)
@@ -70,7 +71,7 @@
   * [Hill Cipher](https://github.com/TheAlgorithms/Python/blob/master/ciphers/hill_cipher.py)
   * [Mixed Keyword Cypher](https://github.com/TheAlgorithms/Python/blob/master/ciphers/mixed_keyword_cypher.py)
   * [Mono Alphabetic Ciphers](https://github.com/TheAlgorithms/Python/blob/master/ciphers/mono_alphabetic_ciphers.py)
-  * [Morse Code Implementation](https://github.com/TheAlgorithms/Python/blob/master/ciphers/morse_code_implementation.py)
+  * [Morse Code](https://github.com/TheAlgorithms/Python/blob/master/ciphers/morse_code.py)
   * [Onepad Cipher](https://github.com/TheAlgorithms/Python/blob/master/ciphers/onepad_cipher.py)
   * [Playfair Cipher](https://github.com/TheAlgorithms/Python/blob/master/ciphers/playfair_cipher.py)
   * [Porta Cipher](https://github.com/TheAlgorithms/Python/blob/master/ciphers/porta_cipher.py)
@@ -210,6 +211,9 @@
   * Histogram Equalization
     * [Histogram Stretch](https://github.com/TheAlgorithms/Python/blob/master/digital_image_processing/histogram_equalization/histogram_stretch.py)
   * [Index Calculation](https://github.com/TheAlgorithms/Python/blob/master/digital_image_processing/index_calculation.py)
+  * Morphological Operations
+    * [Dilation Operation](https://github.com/TheAlgorithms/Python/blob/master/digital_image_processing/morphological_operations/dilation_operation.py)
+    * [Erosion Operation](https://github.com/TheAlgorithms/Python/blob/master/digital_image_processing/morphological_operations/erosion_operation.py)
   * Resize
     * [Resize](https://github.com/TheAlgorithms/Python/blob/master/digital_image_processing/resize/resize.py)
   * Rotation
@@ -264,6 +268,7 @@
   * [Sum Of Subset](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/sum_of_subset.py)
 
 ## Electronics
+  * [Carrier Concentration](https://github.com/TheAlgorithms/Python/blob/master/electronics/carrier_concentration.py)
   * [Electric Power](https://github.com/TheAlgorithms/Python/blob/master/electronics/electric_power.py)
   * [Ohms Law](https://github.com/TheAlgorithms/Python/blob/master/electronics/ohms_law.py)
 
@@ -274,6 +279,7 @@
     * [Test Send File](https://github.com/TheAlgorithms/Python/blob/master/file_transfer/tests/test_send_file.py)
 
 ## Fractals
+  * [Julia Sets](https://github.com/TheAlgorithms/Python/blob/master/fractals/julia_sets.py)
   * [Koch Snowflake](https://github.com/TheAlgorithms/Python/blob/master/fractals/koch_snowflake.py)
   * [Mandelbrot](https://github.com/TheAlgorithms/Python/blob/master/fractals/mandelbrot.py)
   * [Sierpinski Triangle](https://github.com/TheAlgorithms/Python/blob/master/fractals/sierpinski_triangle.py)
@@ -326,10 +332,12 @@
   * [Graph Matrix](https://github.com/TheAlgorithms/Python/blob/master/graphs/graph_matrix.py)
   * [Graphs Floyd Warshall](https://github.com/TheAlgorithms/Python/blob/master/graphs/graphs_floyd_warshall.py)
   * [Greedy Best First](https://github.com/TheAlgorithms/Python/blob/master/graphs/greedy_best_first.py)
+  * [Greedy Min Vertex Cover](https://github.com/TheAlgorithms/Python/blob/master/graphs/greedy_min_vertex_cover.py)
   * [Kahns Algorithm Long](https://github.com/TheAlgorithms/Python/blob/master/graphs/kahns_algorithm_long.py)
   * [Kahns Algorithm Topo](https://github.com/TheAlgorithms/Python/blob/master/graphs/kahns_algorithm_topo.py)
   * [Karger](https://github.com/TheAlgorithms/Python/blob/master/graphs/karger.py)
   * [Markov Chain](https://github.com/TheAlgorithms/Python/blob/master/graphs/markov_chain.py)
+  * [Matching Min Vertex Cover](https://github.com/TheAlgorithms/Python/blob/master/graphs/matching_min_vertex_cover.py)
   * [Minimum Spanning Tree Boruvka](https://github.com/TheAlgorithms/Python/blob/master/graphs/minimum_spanning_tree_boruvka.py)
   * [Minimum Spanning Tree Kruskal](https://github.com/TheAlgorithms/Python/blob/master/graphs/minimum_spanning_tree_kruskal.py)
   * [Minimum Spanning Tree Kruskal2](https://github.com/TheAlgorithms/Python/blob/master/graphs/minimum_spanning_tree_kruskal2.py)
@@ -344,6 +352,9 @@
   * Tests
     * [Test Min Spanning Tree Kruskal](https://github.com/TheAlgorithms/Python/blob/master/graphs/tests/test_min_spanning_tree_kruskal.py)
     * [Test Min Spanning Tree Prim](https://github.com/TheAlgorithms/Python/blob/master/graphs/tests/test_min_spanning_tree_prim.py)
+
+## Greedy Methods
+  * [Optimal Merge Pattern](https://github.com/TheAlgorithms/Python/blob/master/greedy_methods/optimal_merge_pattern.py)
 
 ## Hashes
   * [Adler32](https://github.com/TheAlgorithms/Python/blob/master/hashes/adler32.py)
@@ -424,7 +435,7 @@
   * [Binomial Distribution](https://github.com/TheAlgorithms/Python/blob/master/maths/binomial_distribution.py)
   * [Bisection](https://github.com/TheAlgorithms/Python/blob/master/maths/bisection.py)
   * [Ceil](https://github.com/TheAlgorithms/Python/blob/master/maths/ceil.py)
-  * [Check Valid Ip Address](https://github.com/TheAlgorithms/Python/blob/master/maths/check_valid_ip_address.py)
+  * [Check Polygon](https://github.com/TheAlgorithms/Python/blob/master/maths/check_polygon.py)
   * [Chudnovsky Algorithm](https://github.com/TheAlgorithms/Python/blob/master/maths/chudnovsky_algorithm.py)
   * [Collatz Sequence](https://github.com/TheAlgorithms/Python/blob/master/maths/collatz_sequence.py)
   * [Combinations](https://github.com/TheAlgorithms/Python/blob/master/maths/combinations.py)
@@ -435,6 +446,7 @@
   * [Euclidean Distance](https://github.com/TheAlgorithms/Python/blob/master/maths/euclidean_distance.py)
   * [Euclidean Gcd](https://github.com/TheAlgorithms/Python/blob/master/maths/euclidean_gcd.py)
   * [Euler Method](https://github.com/TheAlgorithms/Python/blob/master/maths/euler_method.py)
+  * [Euler Modified](https://github.com/TheAlgorithms/Python/blob/master/maths/euler_modified.py)
   * [Eulers Totient](https://github.com/TheAlgorithms/Python/blob/master/maths/eulers_totient.py)
   * [Extended Euclidean Algorithm](https://github.com/TheAlgorithms/Python/blob/master/maths/extended_euclidean_algorithm.py)
   * [Factorial Iterative](https://github.com/TheAlgorithms/Python/blob/master/maths/factorial_iterative.py)
@@ -456,6 +468,7 @@
   * [Greedy Coin Change](https://github.com/TheAlgorithms/Python/blob/master/maths/greedy_coin_change.py)
   * [Hardy Ramanujanalgo](https://github.com/TheAlgorithms/Python/blob/master/maths/hardy_ramanujanalgo.py)
   * [Integration By Simpson Approx](https://github.com/TheAlgorithms/Python/blob/master/maths/integration_by_simpson_approx.py)
+  * [Is Ip V4 Address Valid](https://github.com/TheAlgorithms/Python/blob/master/maths/is_ip_v4_address_valid.py)
   * [Is Square Free](https://github.com/TheAlgorithms/Python/blob/master/maths/is_square_free.py)
   * [Jaccard Similarity](https://github.com/TheAlgorithms/Python/blob/master/maths/jaccard_similarity.py)
   * [Kadanes](https://github.com/TheAlgorithms/Python/blob/master/maths/kadanes.py)
@@ -490,6 +503,7 @@
   * [Prime Numbers](https://github.com/TheAlgorithms/Python/blob/master/maths/prime_numbers.py)
   * [Prime Sieve Eratosthenes](https://github.com/TheAlgorithms/Python/blob/master/maths/prime_sieve_eratosthenes.py)
   * [Primelib](https://github.com/TheAlgorithms/Python/blob/master/maths/primelib.py)
+  * [Proth Number](https://github.com/TheAlgorithms/Python/blob/master/maths/proth_number.py)
   * [Pythagoras](https://github.com/TheAlgorithms/Python/blob/master/maths/pythagoras.py)
   * [Qr Decomposition](https://github.com/TheAlgorithms/Python/blob/master/maths/qr_decomposition.py)
   * [Quadratic Equations Complex Numbers](https://github.com/TheAlgorithms/Python/blob/master/maths/quadratic_equations_complex_numbers.py)
@@ -512,6 +526,7 @@
   * [Sum Of Arithmetic Series](https://github.com/TheAlgorithms/Python/blob/master/maths/sum_of_arithmetic_series.py)
   * [Sum Of Digits](https://github.com/TheAlgorithms/Python/blob/master/maths/sum_of_digits.py)
   * [Sum Of Geometric Progression](https://github.com/TheAlgorithms/Python/blob/master/maths/sum_of_geometric_progression.py)
+  * [Sylvester Sequence](https://github.com/TheAlgorithms/Python/blob/master/maths/sylvester_sequence.py)
   * [Test Prime Check](https://github.com/TheAlgorithms/Python/blob/master/maths/test_prime_check.py)
   * [Trapezoidal Rule](https://github.com/TheAlgorithms/Python/blob/master/maths/trapezoidal_rule.py)
   * [Triplet Sum](https://github.com/TheAlgorithms/Python/blob/master/maths/triplet_sum.py)
@@ -766,6 +781,8 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_089/sol1.py)
   * Problem 091
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_091/sol1.py)
+  * Problem 092
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_092/sol1.py)
   * Problem 097
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_097/sol1.py)
   * Problem 099
@@ -929,7 +946,6 @@
   * [Reverse Letters](https://github.com/TheAlgorithms/Python/blob/master/strings/reverse_letters.py)
   * [Reverse Words](https://github.com/TheAlgorithms/Python/blob/master/strings/reverse_words.py)
   * [Split](https://github.com/TheAlgorithms/Python/blob/master/strings/split.py)
-  * [Swap Case](https://github.com/TheAlgorithms/Python/blob/master/strings/swap_case.py)
   * [Upper](https://github.com/TheAlgorithms/Python/blob/master/strings/upper.py)
   * [Word Occurrence](https://github.com/TheAlgorithms/Python/blob/master/strings/word_occurrence.py)
   * [Word Patterns](https://github.com/TheAlgorithms/Python/blob/master/strings/word_patterns.py)
@@ -944,6 +960,7 @@
   * [Current Stock Price](https://github.com/TheAlgorithms/Python/blob/master/web_programming/current_stock_price.py)
   * [Current Weather](https://github.com/TheAlgorithms/Python/blob/master/web_programming/current_weather.py)
   * [Daily Horoscope](https://github.com/TheAlgorithms/Python/blob/master/web_programming/daily_horoscope.py)
+  * [Download Images From Google Query](https://github.com/TheAlgorithms/Python/blob/master/web_programming/download_images_from_google_query.py)
   * [Emails From Url](https://github.com/TheAlgorithms/Python/blob/master/web_programming/emails_from_url.py)
   * [Fetch Bbc News](https://github.com/TheAlgorithms/Python/blob/master/web_programming/fetch_bbc_news.py)
   * [Fetch Github Info](https://github.com/TheAlgorithms/Python/blob/master/web_programming/fetch_github_info.py)
